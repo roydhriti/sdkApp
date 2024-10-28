@@ -1,0 +1,7 @@
+{
+  "name": "sdkAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
